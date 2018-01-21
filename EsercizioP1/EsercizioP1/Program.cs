@@ -10,8 +10,13 @@ namespace EsercizioP1
     {
         static void Main(string[] args)
         {
-            //Ciao Mondo
-            Console.WriteLine("Hello World");
+            string frase;
+
+            Console.Write("Scrivi Qualcosa: ");
+            frase = Console.ReadLine();
+
+            Console.Write(frase);
+            Console.ReadKey();
         }
     }
 }
