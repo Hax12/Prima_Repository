@@ -12,7 +12,7 @@ namespace EsercizioP1
         {
             string frase;
 
-            Console.Write("Scrivi Qualcosa: ");
+            Console.Write("Scrivi Qualcosa: GitHub è troppo bello");
             frase = Console.ReadLine();
 
             Console.Write(frase);
