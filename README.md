@@ -1,3 +1,4 @@
-# Prova
+# Esercizi
 
-Esercizio di Prova
+Esercizi/Compiti da completare
+Djebali Hassen e Torricelli Alessio

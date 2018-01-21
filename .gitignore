@@ -1,0 +1,3 @@
+# .gitignore esclude, per tipologie di file, dai Commits (visto che un pdf non si può modificare)
+
+*.pdf
