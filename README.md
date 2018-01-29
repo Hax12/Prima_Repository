@@ -1,7 +1,6 @@
 # Esercizi
-
-Esercizi/Compiti da completare
-Djebali Hassen e Torricelli Alessio
+Le Repository che iniziano per "Esercizio_" sono gli Esercizi o i Compiti da completare
+- Autori : Djebali Hassen e Torricelli Alessio
 
 # Prova Prima Repository
 
